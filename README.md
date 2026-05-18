@@ -12,7 +12,7 @@ This notebook implements a full NLP preprocessing and classification workflow fo
 
 ## Dataset
 
-**File:** `IMDB Dataset.csv`
+IMDb Movie Reviews Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviewsLinks to an external site.
 
 50,000 movie reviews labeled `positive` or `negative` (balanced classes).
 
