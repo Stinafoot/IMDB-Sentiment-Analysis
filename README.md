@@ -1,4 +1,4 @@
-# Program 3 — IMDB Sentiment Analysis (TF-IDF, Doc2Vec, Logistic Regression, Random Forest)
+# IMDB Sentiment Analysis (TF-IDF, Doc2Vec, Logistic Regression, Random Forest)
 
 NLP text classification pipeline on the IMDB Movie Review dataset. Compares two text representation strategies (TF-IDF and Doc2Vec) combined with Logistic Regression and Random Forest classifiers for binary sentiment prediction.
 
