@@ -6,7 +6,7 @@ NLP text classification pipeline on the IMDB Movie Review dataset. Compares two 
 
 ## Overview
 
-This notebook implements a full NLP preprocessing and classification workflow for sentiment analysis. Raw movie reviews are cleaned, tokenized, and represented as feature vectors before being passed to supervised classifiers. The written analysis is in `Program3WriteUp.docx`.
+This notebook implements a full NLP preprocessing and classification workflow for sentiment analysis. Raw movie reviews are cleaned, tokenized, and represented as feature vectors before being passed to supervised classifiers. 
 
 ---
 
